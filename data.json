@@ -1,0 +1,83 @@
+{
+  "status": {
+    "error": "1",
+    "msg": "Success"
+  },
+  "Questionbank ": {
+    "questions": [
+      {
+        "question": "Clark, a professional hacker, was hired by an organization to gather sensitive information about its competitors surreptitiously. Clark gathers the server IP address of the target organization using Whois footprinting. Further, he entered the server IP address as an input to an online tool to retrieve information such as the network range of the target organization and to identify the network topology and operating system used in the network.  What is the online tool employed by Clark in the above scenario? ",
+        "option1": "AOL",
+        "option2": "Baidu",
+        "option3": "DuckDuckGo",
+        "option4": "ARIN",
+        "Answer":"DuckDuckGo"
+      },  {
+        "question": "A post-breach forensic investigation revealed that a known vulnerability in Apache Struts was to blame for the Equifax data breach that affected 143 million customers. A fix was available from the software vendor for several months prior to the intrusion. This is likely a failure in which of the following security processes? ",
+        "option1": "Patch management",
+        "option2": "Secure development lifecycle",
+        "option3": "Security awareness training",
+        "option4": "Vendor risk management",
+        "Answer":"Patch management"
+      },{
+ "question": "A post-breach forensic investigation revealed that a known vulnerability in Apache Struts was to blame for the Equifax data breach that affected 143 million customers. A fix was available from the software vendor for several months prior to the intrusion. This is likely a failure in which of the following security processes? ",
+        "option1": "Patch management",
+        "option2": "Secure development lifecycle",
+        "option3": "Security awareness training",
+        "option4": "Vendor risk management",
+        "Answer":"Patch management"
+},{
+ "question":"Henry is a cyber security specialist hired by BlackEye – Cyber Security Solutions. He was tasked with discovering the operating system (OS) of a host. He used the Unicornscan tool to discover the OS of the target system. As a result, he obtained a TTL value, which indicates that the target system is running a Windows OS. Identify the TTL value Henry obtained, which indicates that the target OS is Windows.",
+        "option1": "128",
+        "option2": "255",
+        "option3": "138",
+        "option4": "64",
+        "Answer":"128"
+},{
+ "question":"Which iOS jailbreaking technique patches the kernel during the device boot so that it becomes jailbroken after each successive reboot? ",
+        "option1": "Semi-tethered Jailbreaking",
+        "option2": "Semi-untethered Jailbreaking",
+        "option3": "Untethered jailbreaking",
+        "option4": "Tethered jailbreaking ",
+        "Answer":"Untethered jailbreaking"
+},{
+ "question":" In this attack, an adversary tricks a victim into reinstalling an already-in-use key. This is achieved by manipulating and replaying cryptographic handshake messages. When the victim reinstalls the key, associated parameters such as the incremental transmit packet number and receive packet number are reset to their initial values. What is this attack called?",
+        "option1": "Evil twin",
+        "option2": "KRACK",
+        "option3": "Wardriving",
+        "option4": "Chop chop attack ",
+        "Answer":"KRACK"
+},{"question":" John, a professional hacker, performs a network attack on a renowned organization and gains unauthorized access to the target network. He remains in the network without being detected for a long time and obtains sensitive information without sabotaging the organization.Which of the following attack techniques is used by John?",
+        "option1": "Diversion theft",
+        "option2": "Advanced persistent threat",
+        "option3": "Spear-phishing sites",
+        "option4": "Chop chop attack ",
+        "Answer":"Advanced persistent threat"
+},{"question":" Scenario: Joe turns on his home computer to access personal online banking. When he enters the URL www.bank.com, the website is displayed, but it prompts him to re-enter his credentials as if he has never visited the site before. When he examines the website URL closer, he finds that the site is not secure and the web address appears different. What type of attack he is experiencing?",
+        "option1": "DHCP spoofing",
+        "option2": "ARP cache poisoning",
+        "option3": "DNS hijacking ",
+        "option4": "DoS attack ",
+        "Answer":"ARP cache poisoning"
+},{"question":"An organization is performing a vulnerability assessment for mitigating threats. James, a pen tester, scanned the organization by building an inventory of the protocols found on the organization’s machines to detect which ports are attached to services such as an email server, a web server, or a database server. After identifying the services, he selected the vulnerabilities on each machine and started executing only the relevant tests. What is the type of vulnerability assessment solution that James employed in the above scenario?",
+        "option1": "Inference-based assessment",
+        "option2": "Service-based solutions",
+        "option3": "Tree-based assessment",
+        "option4": "Product-based solutions",
+        "Answer":"Inference-based assessment"
+},{"question":" In the Common Vulnerability Scoring System (CVSS) v3.1 severity ratings, what range does medium vulnerability fall in? ",
+        "option1": "3.0–6.9 ",
+        "option2": "4.0–6.0",
+        "option3": "3.9–6.9 ",
+        "option4": "4.0–6.9",
+        "Answer":"4.0–6.9"
+},{"question":" When analyzing the IDS logs, the system administrator noticed an alert was logged when the external router was accessed from the administrator's Computer to update the router configuration. What type of an alert is this?",
+        "option1": "False positive",
+        "option2": "True negative",
+        "option3": "True positive",
+        "option4": "False negative",
+        "Answer":"False positive"
+}
+    ]
+  }
+}
